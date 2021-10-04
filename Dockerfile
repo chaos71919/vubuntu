@@ -46,6 +46,8 @@ RUN rm -f /etc/apt/sources.list && \
 	vim \
 	zip \
 	sudo \
+        nodejs \
+        npm \
 	net-tools \
 	iputils-ping \
 	build-essential \
